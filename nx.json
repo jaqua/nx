@@ -1,5 +1,5 @@
 {
-  "npmScope": "paedapp",
+  "npmScope": "nx",
   "affected": {
     "defaultBase": "master"
   },
@@ -28,6 +28,9 @@
     "frontend-e2e": {
       "tags": [],
       "implicitDependencies": ["frontend"]
+    },
+    "backend": {
+      "tags": []
     }
   }
 }
